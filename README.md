@@ -6,6 +6,6 @@ PC端远程操控搭载树莓派的小车  实现移动/加速/减速/循迹/超
 
 基于C/S架构
 
-涉及到 C++/python  TCP/IP通信  python多线程编程  GPIO编程 PWM 
+涉及到 C++/python   TCP/IP通信    python多线程编程    GPIO编程   PWM 
 
-超声波传感器  红外线传感器  温湿度传感器 数码管 LED灯 蜂鸣器等
+超声波传感器    舵机  红外线传感器    温湿度传感器   数码管   LED灯   蜂鸣器等
